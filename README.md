@@ -1,28 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,38:0f172a,72:2563eb,100:14b8a6&height=250&section=header&text=au&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=AI%20Workflow%20Builder%20%7C%20Frontend%20Craft%20%7C%20Product%20Systems&descSize=18&descAlignY=56&animation=fadeIn" alt="au profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,28:111827,52:1d4ed8,76:06b6d4,100:14b8a6&height=285&section=header&text=au&fontSize=82&fontColor=ffffff&fontAlignY=31&desc=AI%20Coding%20Explorer%20%7C%20AI%20Product%20Enthusiast%20%7C%20Codex%20Skill%20Builder&descSize=18&descAlignY=53&animation=fadeIn" alt="au profile header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+useful+Codex+skills+in+public.;Turning+rough+ideas+into+clearer+systems.;Designing+AI+interfaces+with+less+noise+and+more+control." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=850&color=22D3EE&center=true&vCenter=true&width=980&lines=AI+Coding+Explorer+%2F+AI+Product+Enthusiast.;Building+useful+Codex+skills+in+public.;Turning+AI+ideas+into+clearer+product+systems.;Designing+interfaces+with+less+noise+and+more+control." alt="Typing animation" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20Repos-9-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="9 public repositories" />
-  <img src="https://img.shields.io/badge/Focus-Codex%20Skills-2563eb?style=for-the-badge&logo=openai&logoColor=white" alt="Codex Skills" />
-  <img src="https://img.shields.io/badge/Style-Tech%20Portfolio-14b8a6?style=for-the-badge" alt="Tech Portfolio" />
+  <img src="https://img.shields.io/badge/Identity-AI%20Coding%20Explorer-2563eb?style=for-the-badge&logo=openai&logoColor=white" alt="AI Coding Explorer" />
+  <img src="https://img.shields.io/badge/Love-AI%20Products-7c3aed?style=for-the-badge" alt="AI Product Enthusiast" />
+  <img src="https://img.shields.io/badge/Craft-Codex%20Skills-14b8a6?style=for-the-badge" alt="Codex Skills" />
   <img src="https://img.shields.io/badge/Mode-Learning%20in%20Public-0f172a?style=for-the-badge" alt="Learning in public" />
 </p>
 
 <p align="center">
-  <a href="#signal">Signal</a>
+  <a href="#signal">身份信号</a>
   ·
-  <a href="#featured-systems">Featured Systems</a>
+  <a href="#mission-control">控制台</a>
   ·
-  <a href="#repository-universe">All Repositories</a>
+  <a href="#ai-product-radar">AI 雷达</a>
   ·
-  <a href="#skill-stack">Skill Stack</a>
+  <a href="#featured-systems">主打系统</a>
   ·
-  <a href="#next-builds">Next Builds</a>
+  <a href="#repository-universe">项目星图</a>
+  ·
+  <a href="#next-builds">下一步</a>
 </p>
 
 <br />
@@ -31,27 +34,67 @@
 
 ## Signal
 
-> Building a public lab for AI-assisted workflows, frontend systems, and practical tools.
+> 我是 au，一个 **AI Coding 探索者** 和 **AI 产品爱好者**。
+> I explore AI coding, AI product workflows, and the interface systems that make intelligent tools actually usable.
+
+我正在把自己对 AI 工具、产品体验、前端审美和开源表达的理解，沉淀成一组可复用的 Codex skills。这里不是简历墙，更像一个持续进化的公开实验室：有工具、有原型、有复盘，也有还没打磨完但诚实保留的学习痕迹。
+
+<br />
+
+<a id="mission-control"></a>
+
+## Mission Control
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Current Direction</h3>
-      <p>I am turning small, repeatable workflows into Codex skills: research reading, UI consistency, production UI states, and AI-native interface polish.</p>
+      <h3>AI Coding 探索者</h3>
+      <p>用 Codex、GitHub CLI、脚本和 README-first workflow，把模糊想法拆成可以运行、可以验证、可以复用的小系统。</p>
     </td>
     <td width="50%">
-      <h3>Design Taste</h3>
-      <p>Clear hierarchy, low-noise visuals, useful automation, bilingual documentation, and product surfaces that feel calm enough to use every day.</p>
+      <h3>AI 产品爱好者</h3>
+      <p>关注 AI 产品里的真实体验：上下文、控制感、失败恢复、界面状态、信息层级，以及低噪声的产品质感。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>What I Am Practicing</h3>
-      <p>GitHub hygiene, README-first project shaping, CLI workflows, AI tool design, frontend polish, and honest project iteration.</p>
+      <h3>Codex Skill Builder</h3>
+      <p>把论文阅读、UI 统一、状态审计、AI 界面美化、GitHub profile 生成等流程做成可分享的 skills。</p>
     </td>
     <td width="50%">
-      <h3>Open Source Rule</h3>
-      <p>Fewer throwaway demos. More useful skills, clearer examples, and visible learning traces.</p>
+      <h3>公开学习现场</h3>
+      <p>不追求一夜完美，更看重持续迭代：少一点无效 demo，多一点真实场景、清楚文档和可见进步。</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<a id="ai-product-radar"></a>
+
+## AI Product Radar
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <h3>Agent Workflow</h3>
+      <p>把复杂任务拆成可执行步骤，让 AI 不只是聊天，而是能做事。</p>
+      <img src="https://img.shields.io/badge/agents-workflows-22d3ee?style=flat-square" alt="agents workflows" />
+    </td>
+    <td width="25%" align="center">
+      <h3>AI Coding</h3>
+      <p>用 CLI、脚本、测试和 GitHub 工作流，把想法快速落地并公开验证。</p>
+      <img src="https://img.shields.io/badge/ai--coding-build%20loop-2563eb?style=flat-square" alt="ai coding" />
+    </td>
+    <td width="25%" align="center">
+      <h3>AI Product UX</h3>
+      <p>关注上下文、可控性、错误恢复、状态反馈和低 AI 味界面。</p>
+      <img src="https://img.shields.io/badge/product--ux-control-14b8a6?style=flat-square" alt="AI product UX" />
+    </td>
+    <td width="25%" align="center">
+      <h3>Open Source</h3>
+      <p>用 README、showcase、脚本和真实边界，让项目更容易被理解。</p>
+      <img src="https://img.shields.io/badge/open--source-clarity-7c3aed?style=flat-square" alt="open source clarity" />
     </td>
   </tr>
 </table>
@@ -60,7 +103,7 @@
 
 <a id="featured-systems"></a>
 
-## Featured Systems
+## 主打系统 / Featured Systems
 
 <table>
   <tr>
@@ -115,9 +158,9 @@
 
 <a id="repository-universe"></a>
 
-## Repository Universe
+## 项目星图 / Repository Universe
 
-All current public repositories are listed here, including polished projects, prototypes, the profile repo, and learning traces.
+这里列出所有当前公开仓库，包括成熟项目、技能库、原型、profile 仓库和早期学习痕迹。好项目放在台前，未完成的也诚实标注状态。
 
 | Repository | Type | Status | Stack | What it is |
 | --- | --- | --- | --- | --- |
@@ -135,7 +178,7 @@ All current public repositories are listed here, including polished projects, pr
 
 <a id="skill-stack"></a>
 
-## Skill Stack
+## 能力轨道 / Skill Stack
 
 ```mermaid
 flowchart LR
@@ -161,7 +204,11 @@ flowchart LR
 
 <br />
 
-## GitHub Activity
+## GitHub 动态 / Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AuGa7&bg_color=020617&color=22d3ee&line=14b8a6&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AuGa7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1&icon_color=14b8a6" alt="GitHub stats" />
@@ -175,7 +222,7 @@ flowchart LR
 
 <a id="next-builds"></a>
 
-## Next Builds
+## 下一步 / Next Builds
 
 | Priority | Build |
 | --- | --- |
