@@ -96,6 +96,7 @@
   <img src="https://img.shields.io/badge/paper--to--notes--skill-Research%20Skill-4338ca?style=for-the-badge" alt="paper-to-notes-skill" />
   <img src="https://img.shields.io/badge/unify--ui--pages--skill-Codex%20Skill-14b8a6?style=for-the-badge" alt="unify-ui-pages-skill" />
   <img src="https://img.shields.io/badge/ui--state--matrix--skill-UI%20State%20Skill-7c3aed?style=for-the-badge" alt="ui-state-matrix-skill" />
+  <img src="https://img.shields.io/badge/quiet--ai--ui--skill-Native%20AI%20UI-0a84ff?style=for-the-badge" alt="quiet-ai-ui-skill" />
 </p>
 
 | 项目 | 它是什么 | 为什么值得看 |
@@ -103,6 +104,7 @@
 | [paper-to-notes-skill](https://github.com/AuGa7/paper-to-notes-skill) | 一个 Codex skill, 用来把研究论文整理成结构化笔记、方法拆解、实验表格和复现计划。 | 这是一个更有实际意义的开源练习: 面向学生、研究者和工程实现者, 目标是把论文阅读变成可行动的工作流。 |
 | [unify-ui-pages-skill](https://github.com/AuGa7/unify-ui-pages-skill) | 一个 Codex skill, 用来从主页面提取 UI 设计规范, 并把子页面统一到同一套视觉和交互语言下。 | 它体现了我对可复用 AI 工作流的兴趣: 先沉淀规则, 再让 Codex 按规则改页面。 |
 | [ui-state-matrix-skill](https://github.com/AuGa7/ui-state-matrix-skill) | 一个 Codex skill, 用来审计和补齐真实产品 UI 的 loading、empty、error、disabled、focus、validation、mobile 等状态。 | 它让 UI 不只停在静态好看, 而是覆盖真实用户会遇到的状态、失败路径和边界情况。 |
+| [quiet-ai-ui-skill](https://github.com/AuGa7/quiet-ai-ui-skill) | 一个 Codex skill, 用来把 AI 产品界面打磨成 Apple-inspired、轻量、克制、低 AI 味的原生感 UI。 | 它把字体、token、组件库选择、AI 工作流状态和反模板味 checklist 放到同一套可复用设计流程里。 |
 
 <br />
 
@@ -187,9 +189,9 @@ flowchart LR
 
 | 优先级 | 行动 |
 | --- | --- |
-| 1 | 用真实前端项目测试 `ui-state-matrix-skill`, 补 browser verification showcase。 |
-| 2 | 继续给 `paper-to-notes-skill` 补更多真实论文 showcase, 包括中文笔记和复现样例。 |
-| 3 | 给 `unify-ui-pages-skill` 补更清楚的 examples 和 demo section。 |
+| 1 | 用真实前端项目测试 `quiet-ai-ui-skill`, 补一组 before / after UI showcase。 |
+| 2 | 用真实前端项目测试 `ui-state-matrix-skill`, 补 browser verification showcase。 |
+| 3 | 继续给 `paper-to-notes-skill` 补更多真实论文 showcase, 包括中文笔记和复现样例。 |
 | 4 | 归档或重建空仓库/不清晰仓库, 让 profile 更干净。 |
 | 5 | 保持月度学习记录, 让成长过程更容易被看到。 |
 
