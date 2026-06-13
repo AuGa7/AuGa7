@@ -1,211 +1,192 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=230&section=header&text=au&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Tools%20%7C%20Product%20Thinking%20%7C%20Frontend%20Craft&descSize=18&descAlignY=58&animation=fadeIn" alt="au profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,38:0f172a,72:2563eb,100:14b8a6&height=250&section=header&text=au&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=AI%20Workflow%20Builder%20%7C%20Frontend%20Craft%20%7C%20Product%20Systems&descSize=18&descAlignY=56&animation=fadeIn" alt="au profile header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=760&lines=Learning+in+public%2C+one+commit+at+a+time.;Building+small+AI+tools+and+frontend+experiments.;Turning+rough+ideas+into+clearer+systems." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+useful+Codex+skills+in+public.;Turning+rough+ideas+into+clearer+systems.;Designing+AI+interfaces+with+less+noise+and+more+control." alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Tools-2563eb?style=for-the-badge" alt="Focus AI Tools" />
-  <img src="https://img.shields.io/badge/Mode-Learning%20in%20Public-14b8a6?style=for-the-badge" alt="Learning in public" />
-  <img src="https://img.shields.io/badge/Style-Clear%20Systems-0f172a?style=for-the-badge" alt="Clear systems" />
+  <img src="https://img.shields.io/badge/Public%20Repos-9-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="9 public repositories" />
+  <img src="https://img.shields.io/badge/Focus-Codex%20Skills-2563eb?style=for-the-badge&logo=openai&logoColor=white" alt="Codex Skills" />
+  <img src="https://img.shields.io/badge/Style-Tech%20Portfolio-14b8a6?style=for-the-badge" alt="Tech Portfolio" />
+  <img src="https://img.shields.io/badge/Mode-Learning%20in%20Public-0f172a?style=for-the-badge" alt="Learning in public" />
 </p>
 
 <p align="center">
-  <a href="#featured-work">Projects</a>
+  <a href="#signal">Signal</a>
   ·
-  <a href="#directory">目录</a>
+  <a href="#featured-systems">Featured Systems</a>
   ·
-  <a href="#featured-work">主打项目</a>
+  <a href="#repository-universe">All Repositories</a>
   ·
-  <a href="#learning-map">学习地图</a>
+  <a href="#skill-stack">Skill Stack</a>
   ·
-  <a href="#next-milestones">下一步</a>
+  <a href="#next-builds">Next Builds</a>
 </p>
 
 <br />
 
-## 你好, 我是 au
+<a id="signal"></a>
 
-这里是我的公开学习现场: 一部分是实验记录, 一部分是项目展架, 也有一部分是我从粗糙想法慢慢走向清晰系统的过程。
+## Signal
 
-我现在最关注这几件事:
-
-| 方向 | 我在探索什么 |
-| --- | --- |
-| AI-assisted building | 用 agents, prompts, skills 和工作流, 把想法变成可用的东西。 |
-| Frontend craft | 让界面更清楚、更一致、更容易扫读。 |
-| Product thinking | 在写代码之前, 先想清楚真实用户任务。 |
-| Learning systems | 把学到的东西沉淀下来, 而不是让它们散掉。 |
-
-> 当前信条: 保持好奇, 小步交付, 诚实复盘, 让进步看得见。
-
-<br />
-
-<a id="directory"></a>
-
-## 目录
-
-| 板块 | 你会看到什么 |
-| --- | --- |
-| [个人快照](#snapshot) | 这个主页想表达什么。 |
-| [主打项目](#featured-work) | 我希望你优先看到的公开仓库。 |
-| [实验区](#experiments) | 早期原型、学习痕迹和还需要打磨的项目。 |
-| [工具箱](#toolbox) | 我正在使用或学习的技术和工具。 |
-| [学习地图](#learning-map) | 我给自己搭的成长路线。 |
-| [GitHub 动态](#github-activity) | 公开统计和活动卡片。 |
-| [下一步](#next-milestones) | 接下来会重点改进的事情。 |
-
-<br />
-
-<a id="snapshot"></a>
-
-## 个人快照
+> Building a public lab for AI-assisted workflows, frontend systems, and practical tools.
 
 <table>
   <tr>
     <td width="50%">
-      <h3>我想成为什么样的人</h3>
-      <p>一个能把产品意图、AI 工具和界面质量连起来的 builder。现在还在早期, 但我希望自己的学习路径是可读、可复盘、可持续改进的。</p>
+      <h3>Current Direction</h3>
+      <p>I am turning small, repeatable workflows into Codex skills: research reading, UI consistency, production UI states, and AI-native interface polish.</p>
     </td>
     <td width="50%">
-      <h3>我看重什么</h3>
-      <p>清楚的结构、真实的文档、有用的小工具, 以及稳定可见的进步。</p>
+      <h3>Design Taste</h3>
+      <p>Clear hierarchy, low-noise visuals, useful automation, bilingual documentation, and product surfaces that feel calm enough to use every day.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>当前方向</h3>
-      <p>Codex skills、AI 工作流设计、前端一致性、项目文档表达。</p>
+      <h3>What I Am Practicing</h3>
+      <p>GitHub hygiene, README-first project shaping, CLI workflows, AI tool design, frontend polish, and honest project iteration.</p>
     </td>
     <td width="50%">
-      <h3>主页状态</h3>
-      <p>这个页面正在从简单学习记录, 慢慢整理成更清楚的项目作品集。</p>
+      <h3>Open Source Rule</h3>
+      <p>Fewer throwaway demos. More useful skills, clearer examples, and visible learning traces.</p>
     </td>
   </tr>
 </table>
 
 <br />
 
-<a id="featured-work"></a>
+<a id="featured-systems"></a>
 
-## 主打项目
+## Featured Systems
 
-<p align="center">
-  <img src="https://img.shields.io/badge/paper--to--notes--skill-Research%20Skill-4338ca?style=for-the-badge" alt="paper-to-notes-skill" />
-  <img src="https://img.shields.io/badge/unify--ui--pages--skill-Codex%20Skill-14b8a6?style=for-the-badge" alt="unify-ui-pages-skill" />
-  <img src="https://img.shields.io/badge/ui--state--matrix--skill-UI%20State%20Skill-7c3aed?style=for-the-badge" alt="ui-state-matrix-skill" />
-  <img src="https://img.shields.io/badge/quiet--ai--ui--skill-Native%20AI%20UI-0a84ff?style=for-the-badge" alt="quiet-ai-ui-skill" />
-</p>
-
-| 项目 | 它是什么 | 为什么值得看 |
-| --- | --- | --- |
-| [paper-to-notes-skill](https://github.com/AuGa7/paper-to-notes-skill) | 一个 Codex skill, 用来把研究论文整理成结构化笔记、方法拆解、实验表格和复现计划。 | 这是一个更有实际意义的开源练习: 面向学生、研究者和工程实现者, 目标是把论文阅读变成可行动的工作流。 |
-| [unify-ui-pages-skill](https://github.com/AuGa7/unify-ui-pages-skill) | 一个 Codex skill, 用来从主页面提取 UI 设计规范, 并把子页面统一到同一套视觉和交互语言下。 | 它体现了我对可复用 AI 工作流的兴趣: 先沉淀规则, 再让 Codex 按规则改页面。 |
-| [ui-state-matrix-skill](https://github.com/AuGa7/ui-state-matrix-skill) | 一个 Codex skill, 用来审计和补齐真实产品 UI 的 loading、empty、error、disabled、focus、validation、mobile 等状态。 | 它让 UI 不只停在静态好看, 而是覆盖真实用户会遇到的状态、失败路径和边界情况。 |
-| [quiet-ai-ui-skill](https://github.com/AuGa7/quiet-ai-ui-skill) | 一个 Codex skill, 用来把 AI 产品界面打磨成 Apple-inspired、轻量、克制、低 AI 味的原生感 UI。 | 它把字体、token、组件库选择、AI 工作流状态和反模板味 checklist 放到同一套可复用设计流程里。 |
-
-<br />
-
-<a id="experiments"></a>
-
-## 实验区
-
-不是所有东西都已经打磨完成。有些仓库暂时保留为学习痕迹、草稿或占位项目, 后续会继续整理。
-
-| 仓库 | 当前状态 | 下一步整理 |
-| --- | --- | --- |
-| `fictional-goggles` | 早期学习记录。 | 提取有价值内容后重命名或归档。 |
-| `ai-god` | 目前还是空的公开实验。 | 补上真实 README 和原型, 或者隐藏/归档。 |
-| `profile README` | 当前 GitHub profile README。 | 持续优化结构、截图和项目导航。 |
-
-<br />
-
-<a id="toolbox"></a>
-
-## 工具箱
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Codex-0f172a?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-</p>
-
-| 层级 | 工具和习惯 |
-| --- | --- |
-| Build | HTML, CSS, JavaScript, Node.js, Express. |
-| Ship | Git, GitHub CLI, Vercel-oriented project structure. |
-| Think | README-first planning, product notes, workflow documentation. |
-| Improve | 小步迭代、可见 changelog、定期清理项目。 |
+<table>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/AuGa7/github-profile-studio-skill">github-profile-studio-skill</a></h3>
+      <p>Generates polished tech-style GitHub profile READMEs from live public repository data, including a complete project index.</p>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub%20Profile%20Studio-22d3ee?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile Studio" />
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/AuGa7/quiet-ai-ui-skill">quiet-ai-ui-skill</a></h3>
+      <p>Apple-inspired, lightweight, low-AI-smell UI polishing for AI product interfaces.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Native%20AI%20UI-0a84ff?style=flat-square" alt="Native AI UI" />
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/AuGa7/ui-state-matrix-skill">ui-state-matrix-skill</a></h3>
+      <p>Audits and implements loading, empty, error, disabled, focus, validation, and mobile states.</p>
+      <p>
+        <img src="https://img.shields.io/badge/UI%20State%20Matrix-7c3aed?style=flat-square" alt="UI State Matrix" />
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/AuGa7/paper-to-notes-skill">paper-to-notes-skill</a></h3>
+      <p>Turns research papers into structured notes, method breakdowns, comparison tables, and reproduction plans.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Research%20Workflow-4338ca?style=flat-square" alt="Research Workflow" />
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/AuGa7/unify-ui-pages-skill">unify-ui-pages-skill</a></h3>
+      <p>Extracts design specs from a main page and aligns subpages to one visual language.</p>
+      <p>
+        <img src="https://img.shields.io/badge/UI%20Consistency-14b8a6?style=flat-square" alt="UI Consistency" />
+        <img src="https://img.shields.io/badge/Codex%20Skill-111827?style=flat-square&logo=openai&logoColor=white" alt="Codex Skill" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<a id="learning-map"></a>
+<a id="repository-universe"></a>
 
-## 学习地图
+## Repository Universe
+
+All current public repositories are listed here, including polished projects, prototypes, the profile repo, and learning traces.
+
+| Repository | Type | Status | Stack | What it is |
+| --- | --- | --- | --- | --- |
+| [github-profile-studio-skill](https://github.com/AuGa7/github-profile-studio-skill) | Codex skill | Active | Python, Markdown | Generates polished tech-style GitHub profile READMEs with complete public repository coverage. |
+| [quiet-ai-ui-skill](https://github.com/AuGa7/quiet-ai-ui-skill) | Codex skill | Active | Python, Markdown, CSS | AI product UI polishing: Apple-inspired, lightweight, low-AI-smell design workflow. |
+| [ui-state-matrix-skill](https://github.com/AuGa7/ui-state-matrix-skill) | Codex skill | Active | Python, Markdown | Production UI state coverage for loading, empty, error, disabled, focus, validation, and responsive states. |
+| [paper-to-notes-skill](https://github.com/AuGa7/paper-to-notes-skill) | Codex skill | Active | Python, Markdown | Research paper reading workflow with notes, method breakdowns, and reproduction plans. |
+| [unify-ui-pages-skill](https://github.com/AuGa7/unify-ui-pages-skill) | Codex skill | Active | Markdown | UI consistency workflow for extracting page design specs and aligning subpages. |
+| [ai-bible](https://github.com/AuGa7/ai-bible) | Prototype | Rebuild candidate | HTML, Node.js, Express | AI-assisted Bible study and reflection prototype. |
+| [AuGa7](https://github.com/AuGa7/AuGa7) | Profile system | Active | Markdown | This GitHub profile README and public portfolio surface. |
+| [ai-god](https://github.com/AuGa7/ai-god) | Early experiment | Needs rebuild | Planning | Early AI product experiment placeholder, kept as a learning trace before a clearer rebuild. |
+| [fictional-goggles](https://github.com/AuGa7/fictional-goggles) | Learning notebook | Needs cleanup | Practice repo | Early GitHub learning notebook and practice repository. |
+
+<br />
+
+<a id="skill-stack"></a>
+
+## Skill Stack
 
 ```mermaid
 flowchart LR
-  A["Product question"] --> B["Interface sketch"]
-  B --> C["Small prototype"]
-  C --> D["README and usage notes"]
-  D --> E["Honest review"]
-  E --> F["Reusable pattern"]
-  F --> C
+  K["GitHub Profile"] --> L["github-profile-studio"]
+  A["Paper Reading"] --> B["paper-to-notes"]
+  C["UI Consistency"] --> D["unify-ui-pages"]
+  E["Production States"] --> F["ui-state-matrix"]
+  G["AI Interface Polish"] --> H["quiet-ai-ui"]
+  L --> I["Reusable Workflows"]
+  B --> I["Reusable Workflows"]
+  D --> I
+  F --> I
+  H --> I
+  I --> J["Better Open Source Practice"]
 ```
 
-| 路线 | 我正在练习 |
+| Layer | I am building toward |
 | --- | --- |
-| AI workflow | Prompt 结构、agent skills、工具调用、复盘循环。 |
-| Frontend | 布局、视觉层级、响应式细节、交互状态。 |
-| Documentation | 清楚的 README、安装步骤、截图、项目意图。 |
-| Engineering basics | Git hygiene、仓库结构、可重复的本地启动方式。 |
+| Research | Turn long technical material into notes, decisions, and reproduction plans. |
+| Interface | Make pages consistent, readable, responsive, and state-complete. |
+| AI Product | Design AI-native flows with visible context, control, recovery, and less template noise. |
+| Open Source | Keep repos understandable: clear README, examples, scripts, validation, and next steps. |
 
 <br />
 
-<a id="github-activity"></a>
+## GitHub Activity
 
-## GitHub 动态
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AuGa7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1&icon_color=14b8a6" alt="GitHub stats" />
+</p>
 
-| 公开节奏 | 当前状态 |
-| --- | --- |
-| Profile | 把首页整理成清楚、可信、可继续迭代的作品集。 |
-| Projects | 优先打磨有 README、有 demo、有真实使用场景的仓库。 |
-| Notes | 保留学习痕迹, 但会逐步清理不再代表当前方向的内容。 |
-| Review | 定期回看项目表达: 名字、说明、截图、目录和下一步是否清楚。 |
-
-<br />
-
-<a id="next-milestones"></a>
-
-## 下一步
-
-| 优先级 | 行动 |
-| --- | --- |
-| 1 | 用真实前端项目测试 `quiet-ai-ui-skill`, 补一组 before / after UI showcase。 |
-| 2 | 用真实前端项目测试 `ui-state-matrix-skill`, 补 browser verification showcase。 |
-| 3 | 继续给 `paper-to-notes-skill` 补更多真实论文 showcase, 包括中文笔记和复现样例。 |
-| 4 | 归档或重建空仓库/不清晰仓库, 让 profile 更干净。 |
-| 5 | 保持月度学习记录, 让成长过程更容易被看到。 |
-
-<br />
-
-## 联系和链接
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-au-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  <img src="https://img.shields.io/badge/Public%20Repos-Explore-2563eb?style=for-the-badge&logo=github" alt="Public repositories" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuGa7&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1" alt="Top languages" />
 </p>
 
 <br />
 
+<a id="next-builds"></a>
+
+## Next Builds
+
+| Priority | Build |
+| --- | --- |
+| 1 | Use `github-profile-studio-skill` to keep this profile generated from live GitHub repo data. |
+| 2 | Create a real before / after showcase for `quiet-ai-ui-skill` using an AI product screen. |
+| 3 | Test `ui-state-matrix-skill` on a working frontend and add browser verification screenshots. |
+| 4 | Add more bilingual paper examples to `paper-to-notes-skill`. |
+| 5 | Rebuild or archive unclear early repositories so the public surface stays honest. |
+
+<br />
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,45:2563eb,100:0f172a&height=120&section=footer" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,45:2563eb,100:020617&height=120&section=footer" alt="Footer wave" />
 </p>
