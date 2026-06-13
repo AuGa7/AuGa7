@@ -93,14 +93,14 @@
 ## 主打项目
 
 <p align="center">
+  <img src="https://img.shields.io/badge/paper--to--notes--skill-Research%20Skill-4338ca?style=for-the-badge" alt="paper-to-notes-skill" />
   <img src="https://img.shields.io/badge/unify--ui--pages--skill-Codex%20Skill-14b8a6?style=for-the-badge" alt="unify-ui-pages-skill" />
-  <img src="https://img.shields.io/badge/ai--bible-Prototype-2563eb?style=for-the-badge" alt="ai-bible" />
 </p>
 
 | 项目 | 它是什么 | 为什么值得看 |
 | --- | --- | --- |
-| `unify-ui-pages-skill` | 一个 Codex skill, 用来从主页面提取 UI 设计规范, 并把子页面统一到同一套视觉和交互语言下。 | 这是目前最完整的公开工具: 目标明确、有 README、有 license, 也体现了我对可复用工作流的兴趣。 |
-| `ai-bible` | 一个 HTML 和 JavaScript 小项目, 尝试探索 AI 辅助的信仰与反思体验。 | 它记录了我早期把前端页面、Node 服务和 AI 产品想法连接起来的尝试。 |
+| [paper-to-notes-skill](https://github.com/AuGa7/paper-to-notes-skill) | 一个 Codex skill, 用来把研究论文整理成结构化笔记、方法拆解、实验表格和复现计划。 | 这是一个更有实际意义的开源练习: 面向学生、研究者和工程实现者, 目标是把论文阅读变成可行动的工作流。 |
+| [unify-ui-pages-skill](https://github.com/AuGa7/unify-ui-pages-skill) | 一个 Codex skill, 用来从主页面提取 UI 设计规范, 并把子页面统一到同一套视觉和交互语言下。 | 它体现了我对可复用 AI 工作流的兴趣: 先沉淀规则, 再让 Codex 按规则改页面。 |
 
 <br />
 
@@ -185,10 +185,10 @@ flowchart LR
 
 | 优先级 | 行动 |
 | --- | --- |
-| 1 | 给 `unify-ui-pages-skill` 补更清楚的 examples 和 demo section。 |
-| 2 | 修好 `ai-bible` 的项目结构, 让链接的 assets 和页面更完整。 |
-| 3 | 归档或重建空仓库/不清晰仓库, 让 profile 更干净。 |
-| 4 | 给可视化项目补截图和 live demo 链接。 |
+| 1 | 用真实论文测试 `paper-to-notes-skill`, 补一份 example output。 |
+| 2 | 给 `unify-ui-pages-skill` 补更清楚的 examples 和 demo section。 |
+| 3 | 继续做少量但有实际意义的 Codex skills, 不堆无效项目。 |
+| 4 | 归档或重建空仓库/不清晰仓库, 让 profile 更干净。 |
 | 5 | 保持月度学习记录, 让成长过程更容易被看到。 |
 
 <br />
