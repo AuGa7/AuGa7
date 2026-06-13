@@ -185,7 +185,7 @@ flowchart LR
 
 | 优先级 | 行动 |
 | --- | --- |
-| 1 | 用真实论文测试 `paper-to-notes-skill`, 补一份 example output。 |
+| 1 | 继续给 `paper-to-notes-skill` 补更多真实论文 showcase, 包括中文笔记和复现样例。 |
 | 2 | 给 `unify-ui-pages-skill` 补更清楚的 examples 和 demo section。 |
 | 3 | 继续做少量但有实际意义的 Codex skills, 不堆无效项目。 |
 | 4 | 归档或重建空仓库/不清晰仓库, 让 profile 更干净。 |
