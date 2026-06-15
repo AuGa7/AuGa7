@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-9-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="9 public repositories" />
+  <img src="https://img.shields.io/badge/Public%20Repos-10-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="10 public repositories" />
   <img src="https://img.shields.io/badge/Identity-AI%20Coding%20Explorer-2563eb?style=for-the-badge&logo=openai&logoColor=white" alt="AI Coding Explorer" />
   <img src="https://img.shields.io/badge/Love-AI%20Products-7c3aed?style=for-the-badge" alt="AI Product Enthusiast" />
   <img src="https://img.shields.io/badge/Craft-Codex%20Skills-14b8a6?style=for-the-badge" alt="Codex Skills" />
@@ -108,6 +108,17 @@
 <table>
   <tr>
     <td colspan="2">
+      <h3><a href="https://github.com/AuGa7/oss-repo-auditor">oss-repo-auditor</a></h3>
+      <p>No-dependency CLI for checking README quality, license presence, repository hygiene, leak-risk signals, and release readiness before open-sourcing a project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Open%20Source%20Audit-22d3ee?style=flat-square&logo=github&logoColor=white" alt="Open Source Audit" />
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/100%2F100-self%20audit-14b8a6?style=flat-square" alt="100 out of 100 self audit" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <h3><a href="https://github.com/AuGa7/github-profile-studio-skill">github-profile-studio-skill</a></h3>
       <p>Generates polished tech-style GitHub profile READMEs from live public repository data, including a complete project index.</p>
       <p>
@@ -164,6 +175,7 @@
 
 | Repository | Type | Status | Stack | What it is |
 | --- | --- | --- | --- | --- |
+| [oss-repo-auditor](https://github.com/AuGa7/oss-repo-auditor) | Open-source CLI | Active | Python, Markdown | Audits README quality, license presence, repository hygiene, leak-risk signals, and release readiness before publishing. |
 | [github-profile-studio-skill](https://github.com/AuGa7/github-profile-studio-skill) | Codex skill | Active | Python, Markdown | Generates polished tech-style GitHub profile READMEs with complete public repository coverage. |
 | [quiet-ai-ui-skill](https://github.com/AuGa7/quiet-ai-ui-skill) | Codex skill | Active | Python, Markdown, CSS | AI product UI polishing: Apple-inspired, lightweight, low-AI-smell design workflow. |
 | [ui-state-matrix-skill](https://github.com/AuGa7/ui-state-matrix-skill) | Codex skill | Active | Python, Markdown | Production UI state coverage for loading, empty, error, disabled, focus, validation, and responsive states. |
@@ -182,6 +194,7 @@
 
 ```mermaid
 flowchart LR
+  M["Open Source Audit"] --> N["oss-repo-auditor"]
   K["GitHub Profile"] --> L["github-profile-studio"]
   A["Paper Reading"] --> B["paper-to-notes"]
   C["UI Consistency"] --> D["unify-ui-pages"]
@@ -192,6 +205,7 @@ flowchart LR
   D --> I
   F --> I
   H --> I
+  N --> J["Better Open Source Practice"]
   I --> J["Better Open Source Practice"]
 ```
 
@@ -226,10 +240,10 @@ flowchart LR
 
 | Priority | Build |
 | --- | --- |
-| 1 | Use `github-profile-studio-skill` to keep this profile generated from live GitHub repo data. |
-| 2 | Create a real before / after showcase for `quiet-ai-ui-skill` using an AI product screen. |
-| 3 | Test `ui-state-matrix-skill` on a working frontend and add browser verification screenshots. |
-| 4 | Add more bilingual paper examples to `paper-to-notes-skill`. |
+| 1 | Use `oss-repo-auditor` before publishing new public projects, then turn the best checks into a GitHub Action. |
+| 2 | Use `github-profile-studio-skill` to keep this profile generated from live GitHub repo data. |
+| 3 | Create a real before / after showcase for `quiet-ai-ui-skill` using an AI product screen. |
+| 4 | Test `ui-state-matrix-skill` on a working frontend and add browser verification screenshots. |
 | 5 | Rebuild or archive unclear early repositories so the public surface stays honest. |
 
 <br />
